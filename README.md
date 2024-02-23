@@ -1,4 +1,8 @@
-Hi 👋 My name is Neetha Paradkar ================================  Senior iOS Developer --------------------  I am a iOS developer.  * 🌍  I'm based in Ashburn , Virginia * ✉️  You can contact me at [neethu1886@gmail.com](mailto:neethu1886@gmail.com) * 🧠  I'm learning SwiftUI ,Core Ml and ARKit * ⚡  Apart from Coding I enjoy cooking and Having my Family and Friends over to taste the food.
+Hi 👋 My name is Neetha Paradkar --------------------  I am a iOS developer.  
+* 🌍  I'm based in Ashburn , Virginia
+*  * ✉️  You can contact me at [neethu1886@gmail.com](mailto:neethu1886@gmail.com) *
+   * 🧠  I'm learning SwiftUI ,Core Ml and ARKit *
+   * ⚡  Apart from Coding I enjoy cooking and Having my Family and Friends over to taste the food.
 
 ### Skills  
 
